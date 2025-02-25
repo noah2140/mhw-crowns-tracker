@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  padding-top: 5vh;
+  padding-bottom: 15vh;
 }
 
 .App-logo {
@@ -35,4 +37,60 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.filterContainer {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  margin: 0 auto;
+  align-items: center;
+  background-color: #eeeeee;
+}
+
+.filterContainer select {
+  height: 5vh;
+  font-weight: bold;
+  font-size: 14px;
+  color: black;
+}
+
+.toggle-filter-btn {
+  width: 45%;
+  height: 5vh;
+  font-weight: bold;
+  font-size: 16px;
+  color: black;
+  border: none;
+}
+
+.dark-mode {
+  background-color: #1e1e1e;
+  color: white;
+}
+
+.dark-mode-toggle {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+  color: black;
+  transition: color 0.3s;
+}
+
+.dark-mode .dark-mode-toggle {
+  color: white;
+}
+
+.dark-mode .filterContainer {
+  background: #333;
+  border-color: #555;
+}
+
+.dark-mode .toggle-filter-btn {
+  background-color: #555555;
+  color: white;
 }
