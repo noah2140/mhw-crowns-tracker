@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mhw-crowns-tracker/static/css/main.7fb717ba.css",
-    "main.js": "/mhw-crowns-tracker/static/js/main.fb24432a.js",
+    "main.css": "/mhw-crowns-tracker/static/css/main.665a7223.css",
+    "main.js": "/mhw-crowns-tracker/static/js/main.61b109b1.js",
     "index.html": "/mhw-crowns-tracker/index.html",
-    "main.7fb717ba.css.map": "/mhw-crowns-tracker/static/css/main.7fb717ba.css.map",
-    "main.fb24432a.js.map": "/mhw-crowns-tracker/static/js/main.fb24432a.js.map"
+    "main.665a7223.css.map": "/mhw-crowns-tracker/static/css/main.665a7223.css.map",
+    "main.61b109b1.js.map": "/mhw-crowns-tracker/static/js/main.61b109b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fb717ba.css",
-    "static/js/main.fb24432a.js"
+    "static/css/main.665a7223.css",
+    "static/js/main.61b109b1.js"
   ]
 }
