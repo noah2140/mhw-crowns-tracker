@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mhw-crowns-tracker/static/css/main.1a3fc0f2.css",
+    "main.js": "/mhw-crowns-tracker/static/js/main.bbfe38a4.js",
+    "index.html": "/mhw-crowns-tracker/index.html",
+    "main.1a3fc0f2.css.map": "/mhw-crowns-tracker/static/css/main.1a3fc0f2.css.map",
+    "main.bbfe38a4.js.map": "/mhw-crowns-tracker/static/js/main.bbfe38a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a3fc0f2.css",
+    "static/js/main.bbfe38a4.js"
+  ]
+}
