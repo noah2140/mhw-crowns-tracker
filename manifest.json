@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "MHW Crown Tracker",
+  "name": "MHW Crown Tracker",
   "icons": [
     {
       "src": "crown.png",
